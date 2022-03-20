@@ -1,1 +1,0 @@
-const t={key:"v-4add6d0f",path:"/zh-tw/selectors/position.html",title:"position <\u7D50\u754C\u5E2B>",lang:"zh-tw",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"zh-tw/selectors/position.md"};export{t as data};

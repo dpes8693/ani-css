@@ -5,12 +5,13 @@ export const themeData = {
       "selectLanguageName": "中文",
       "selectLanguageText": "語言",
       "selectLanguageAriaLabel": "語言",
-      "sidebar": [
+      "navbar": [
         {
           "text": "首頁",
-          "link": "/zh-tw/README.md",
-          "children": []
-        },
+          "link": "/zh-tw/README.md"
+        }
+      ],
+      "sidebar": [
         {
           "text": "觀念&名詞",
           "link": "/zh-tw/main.md",

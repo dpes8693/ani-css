@@ -38,5 +38,8 @@
 </li>
 </ul>
 <h2 id="blog使用技術" tabindex="-1"><a class="header-anchor" href="#blog使用技術" aria-hidden="true">#</a> blog使用技術</h2>
+<p>https://video-to-markdown.marcomontalbano.com/</p>
 <p>Vupress v2.0.0-beta.25</p>
+<h3 id="作者" tabindex="-1"><a class="header-anchor" href="#作者" aria-hidden="true">#</a> 作者</h3>
+<p><a href="https://github.com/dpes8693" target="_blank" rel="noopener noreferrer">github<ExternalLinkIcon/></a></p>
 </template>

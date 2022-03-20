@@ -28,4 +28,9 @@
 
 ## blog使用技術
 
+https://video-to-markdown.marcomontalbano.com/
+
 Vupress v2.0.0-beta.25
+
+### 作者
+[github](https://github.com/dpes8693)

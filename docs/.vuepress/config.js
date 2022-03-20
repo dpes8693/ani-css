@@ -24,22 +24,18 @@ module.exports = {
         selectLanguageName: "中文",
         selectLanguageText: "語言",
         selectLanguageAriaLabel: "語言",
-        // navbar: [
-        //   {
-        //     text: "中文",
-        //     link: "/foo/",
-        //   },
-        // ],
+        navbar: [
+          {
+            text: "首頁",
+            link: "/zh-tw/README.md",
+          },
+        ],
         sidebar: [
           //   {
           //     text: "中文",
           //     link: "/foo/",
           //   },
-          {
-            text: "首頁",
-            link: "/zh-tw/README.md",
-            children: [],
-          },
+
           {
             text: "觀念&名詞",
             link: "/zh-tw/main.md",

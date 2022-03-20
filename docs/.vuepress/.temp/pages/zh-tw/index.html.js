@@ -16,16 +16,23 @@ export const data = {
       "level": 2,
       "title": "blog使用技術",
       "slug": "blog使用技術",
-      "children": []
+      "children": [
+        {
+          "level": 3,
+          "title": "作者",
+          "slug": "作者",
+          "children": []
+        }
+      ]
     }
   ],
   "git": {
-    "updatedTime": 1647769854000,
+    "updatedTime": 1647784571000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   },
