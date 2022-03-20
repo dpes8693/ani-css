@@ -8,8 +8,14 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "使用技術",
-      "slug": "使用技術",
+      "title": "大綱",
+      "slug": "大綱",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "blog使用技術",
+      "slug": "blog使用技術",
       "children": []
     }
   ],

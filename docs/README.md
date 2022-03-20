@@ -1,7 +1,9 @@
-# 用動漫例子學習 CSS (Learning CSS with Anime )
+## 關於
+
+Learning CSS with Anime
 
 網址:
-https://dpes8693.github.io/ani-css/
+https://dpes8693.github.io/ani-css/zh-tw/
 
 ## blog 建置筆記
 

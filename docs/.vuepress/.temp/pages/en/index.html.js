@@ -2,7 +2,7 @@ export const data = {
   "key": "v-2d0a870d",
   "path": "/en/",
   "title": "About",
-  "lang": "zh-tw",
+  "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [

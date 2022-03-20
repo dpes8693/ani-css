@@ -7,8 +7,24 @@ export const themeData = {
       "selectLanguageAriaLabel": "語言",
       "sidebar": [
         {
-          "text": "中文",
-          "link": "/foo/"
+          "text": "首頁",
+          "link": "/zh-tw/README.md",
+          "children": []
+        },
+        {
+          "text": "觀念&名詞",
+          "link": "/zh-tw/main.md",
+          "children": []
+        },
+        {
+          "text": "選擇器(Selector)",
+          "children": [
+            {
+              "text": "position <結界師>",
+              "link": "/zh-tw/selectors/position.md",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -16,12 +32,7 @@ export const themeData = {
       "selectLanguageName": "English",
       "selectLanguageText": "Languages",
       "selectLanguageAriaLabel": "Languages",
-      "sidebar": [
-        {
-          "text": "Foo",
-          "link": "/foo/"
-        }
-      ]
+      "sidebar": []
     },
     "/": {
       "selectLanguageName": "English"
