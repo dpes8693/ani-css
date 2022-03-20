@@ -1,7 +1,7 @@
 <template><h2 id="關於" tabindex="-1"><a class="header-anchor" href="#關於" aria-hidden="true">#</a> 關於</h2>
 <p>Learning CSS with Anime</p>
 <p>網址:
-https://dpes8693.github.io/ani-css/zh-tw/</p>
+<a href="https://dpes8693.github.io/ani-css/zh-tw/" target="_blank" rel="noopener noreferrer">https://dpes8693.github.io/ani-css/zh-tw/<ExternalLinkIcon/></a></p>
 <h2 id="blog-建置筆記" tabindex="-1"><a class="header-anchor" href="#blog-建置筆記" aria-hidden="true">#</a> blog 建置筆記</h2>
 <ol start="0">
 <li>要有 nodejs</li>

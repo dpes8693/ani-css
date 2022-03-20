@@ -1,4 +1,5 @@
 module.exports = {
+  darkMode: true,
   base: "/ani-css/",
   lang: "zh-tw",
   title: "用動漫例子學CSS ",
@@ -18,7 +19,8 @@ module.exports = {
     },
   },
   themeConfig: {
-    logo: "https://vuejs.org/images/logo.png",
+      //https://vuejs.org/images/logo.png
+    logo: "",
     locales: {
       "/zh-tw/": {
         selectLanguageName: "中文",
