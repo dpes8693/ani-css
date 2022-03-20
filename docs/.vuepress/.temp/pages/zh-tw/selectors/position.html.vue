@@ -17,7 +17,7 @@
 <p>sticky 可移動 黏住 導航 nav</p>
 <p>先往外層的元素找，否則定位點在左上角</p>
 <h3 id="動畫" tabindex="-1"><a class="header-anchor" href="#動畫" aria-hidden="true">#</a> 動畫</h3>
-<p><a href="https://youtu.be/Qqz485Z-TzQ" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1647784794/video_to_markdown/images/youtube--Qqz485Z-TzQ-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt=""><ExternalLinkIcon/></a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qqz485Z-TzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://zh.wikipedia.org/wiki/%E7%B5%90%E7%95%8C%E5%B8%AB" target="_blank" rel="noopener noreferrer">結界師wiki<ExternalLinkIcon/></a></p>
 <h3 id="生活例子" tabindex="-1"><a class="header-anchor" href="#生活例子" aria-hidden="true">#</a> 生活例子</h3>
 <p>absolute就是使用繪圖軟體新開一個圖層</p>

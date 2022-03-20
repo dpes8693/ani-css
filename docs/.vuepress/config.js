@@ -3,7 +3,13 @@ module.exports = {
   base: "/ani-css/",
   lang: "zh-tw",
   title: "用動漫例子學CSS ",
-  //   dest: "page",
+  head: [
+    [ "link", 
+      { 
+        rel: "icon", href: "https://drive.google.com/uc?export=download&id=136DzvY7s_CwmlgWtjqY7V_xEc7PQRZ0U",
+      }
+    ]
+  ],
   description: "VuePress",
   docsDir: "docs",
   locales: {

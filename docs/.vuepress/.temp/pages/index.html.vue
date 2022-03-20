@@ -6,7 +6,7 @@
 <ol start="0">
 <li>要有 nodejs</li>
 <li>依照官網步驟安裝vuepress</li>
-<li>設定docs/.vupress/config.js</li>
+<li>設定 <code>docs/.vupress/config.js</code></li>
 <li>學習指令 <code>docs:dev</code> <code>docs:build</code></li>
 <li>push到github</li>
 <li>部署</li>
@@ -20,8 +20,16 @@
         過一段時間就會拿到網址囉
 </code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div><ol start="6">
 <li>設定完一輪，以後只要 build 推上去就會自動部署了!</li>
+<li><code>docs/.vupress/config.js</code>加上icon</li>
 </ol>
-<h2 id="tech" tabindex="-1"><a class="header-anchor" href="#tech" aria-hidden="true">#</a> Tech.</h2>
+<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>  <span class="token literal-property property">head</span><span class="token operator">:</span> <span class="token punctuation">[</span>
+    <span class="token punctuation">[</span> <span class="token string">"link"</span><span class="token punctuation">,</span> 
+      <span class="token punctuation">{</span> 
+        <span class="token literal-property property">rel</span><span class="token operator">:</span> <span class="token string">"icon"</span><span class="token punctuation">,</span> <span class="token literal-property property">href</span><span class="token operator">:</span> <span class="token string">"https://drive.google.com/uc?export=download&amp;id=136DzvY7s_CwmlgWtjqY7V_xEc7PQRZ0U"</span><span class="token punctuation">,</span>
+      <span class="token punctuation">}</span>
+    <span class="token punctuation">]</span>
+  <span class="token punctuation">]</span><span class="token punctuation">,</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div><h2 id="tech" tabindex="-1"><a class="header-anchor" href="#tech" aria-hidden="true">#</a> Tech.</h2>
 <p>Vupress v2.0.0-beta.25</p>
 <p><a href="https://v2.vuepress.vuejs.org/" target="_blank" rel="noopener noreferrer">https://v2.vuepress.vuejs.org/<ExternalLinkIcon/></a></p>
 </template>

@@ -10,7 +10,7 @@ Learning CSS with Anime
 
 0. 要有 nodejs 
 1. 依照官網步驟安裝vuepress
-2. 設定docs/.vupress/config.js
+2. 設定 `docs/.vupress/config.js`
 3. 學習指令 `docs:dev` `docs:build`
 4. push到github
 5. 部署
@@ -24,7 +24,16 @@ Learning CSS with Anime
         過一段時間就會拿到網址囉
 ```
 6. 設定完一輪，以後只要 build 推上去就會自動部署了!
-
+7. `docs/.vupress/config.js`加上icon
+```js
+  head: [
+    [ "link", 
+      { 
+        rel: "icon", href: "https://drive.google.com/uc?export=download&id=136DzvY7s_CwmlgWtjqY7V_xEc7PQRZ0U",
+      }
+    ]
+  ],
+```
 
 ## Tech.
 
