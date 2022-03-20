@@ -1,1 +1,0 @@
-const t={key:"v-56fc034c",path:"/zh-tw/main.html",title:"\u89C0\u5FF5&\u540D\u8A5E",lang:"zh-tw",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647784571e3,contributors:[{name:"Richard Lin",email:"33016870+dpes8693@users.noreply.github.com",commits:1}]},filePathRelative:"zh-tw/main.md"};export{t as data};

@@ -2,9 +2,7 @@
 <p><code>動畫作品</code>x<code>現實例子</code>x<code>範例code</code></p>
 <p>這系列文章我希望以換位思考的方式邀請讀者們和我一同學習，
 透過已知的動畫作品連結陌生的英文單字，來加深印象!</p>
-<div class="custom-container tip"><p class="custom-container-title">slogan</p>
-<pre><code>以認識作品的方式來學習不懂的知識
-</code></pre>
+<div class="custom-container tip"><p class="custom-container-title">以認識作品的方式來學習不懂的知識</p>
 </div>
 <h2 id="大綱" tabindex="-1"><a class="header-anchor" href="#大綱" aria-hidden="true">#</a> 大綱</h2>
 <p>持續更新~</p>
