@@ -1,0 +1,1 @@
+const t={key:"v-c0c7d9b4",path:"/zh-tw/",title:"\u7C21\u4ECB",lang:"zh-tw",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u4F7F\u7528\u6280\u8853",slug:"\u4F7F\u7528\u6280\u8853",children:[]}],git:{updatedTime:1647769854e3,contributors:[{name:"Richard Lin",email:"33016870+dpes8693@users.noreply.github.com",commits:1}]},filePathRelative:"zh-tw/README.md"};export{t as data};

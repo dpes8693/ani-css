@@ -2,6 +2,7 @@ module.exports = {
   base: "/ani-css/",
   lang: "zh-tw",
   title: "Hi！",
+  dest: "page",
   description: "VuePress",
   docsDir: "docs",
   locales: {
