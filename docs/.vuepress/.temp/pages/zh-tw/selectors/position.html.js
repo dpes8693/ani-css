@@ -39,27 +39,14 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1647786840000,
+    "updatedTime": 1647789718000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 3
+        "commits": 4
       }
     ]
   },
   "filePathRelative": "zh-tw/selectors/position.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
